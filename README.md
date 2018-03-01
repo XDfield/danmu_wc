@@ -19,10 +19,10 @@ d.generate_wc()  # 然后直接生成
 `generate_wc()`可调参数:  
 * img_file: 背景图文件名
 * colored: 是否使用背景图底色(只有在背景图设置了的情况下才有效)
-* userdict: 自定义词汇字典(txt文本格式, 一个词占一行, 为jieba分词使用)
+* userdict: 自定义词汇字典(txt文本格式, 一个词占一行, 为[jieba](https://github.com/fxsjy/jieba)分词使用)
 * stopwords: 停用词字典(同样txt文本格式, 一个词一行, ban掉部分不想看到的词)
 * output: 生成图片名(默认为result.jpg)
-* 其余参数参考wordcloud的`generate()`方法
+* 其余参数参考[wordcloud](https://github.com/amueller/word_cloud)的`generate()`方法
 
 ### Requirements
 * python3.5+
