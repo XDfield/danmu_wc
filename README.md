@@ -4,7 +4,7 @@
 ### Example
 [爱酱的生化危机合集](https://space.bilibili.com/1473830/#/channel/detail?cid=28784)  
 
-![花Q]()  
+![花Q](https://raw.githubusercontent.com/XDfield/danmu_wc/master/example/%E8%8A%B1Q.jpg)  
 
 > 也想过写一个通过channel频道添加合集里相关aid的方法, 但是这涉及到B站账号的登陆操作, 实现起来太麻烦, 比较简单的方法可以使用example文件夹里的例子, 将合集页面的html保存到本地去解析
 
